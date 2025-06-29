@@ -7,7 +7,7 @@
 <br>
 📚 Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas na PUCPR.
 <br>
-💻 Tenho me dedicado ao aprimoramento técnico em Python, Java, Flutter, SQL e Power BI
+💻 Tenho me dedicado ao aprimoramento técnico em Python, Java, Flutter, SQL e Power BI.
 <br>
 🚀 Em busca de oportunidades para aplicar meus conhecimentos em projetos reais e crescer profissionalmente na área de tecnologia.
 
